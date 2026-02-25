@@ -1,6 +1,6 @@
 # Advertising Skill for Seedance 2.0
 
-一个 Kiro Skill，用于生成即梦（Seedance 2.0）广告视频的脚本和提示词，内置广告法合规检查。
+一个 Claude Code Skill，用于生成即梦（Seedance 2.0）广告视频的脚本和提示词，内置广告法合规检查。
 
 ## 能做什么
 
